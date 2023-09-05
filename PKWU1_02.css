@@ -1,0 +1,155 @@
+.background {
+    background: linear-gradient(137deg, #FFBFBF 0%, #A8DF8E 100%);
+}
+
+.latarktk {
+    width: 1148px;
+    height: 556px;
+    border-radius: 25px;
+    border: 10px solid #E8A1A1;
+    background: #FFF;
+    
+}
+
+.judul1 {
+    width: 961px;
+    height: 105px;
+    color: #E8A1A1;
+    font-family: pacifico;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.judul2 {
+    width: 961px;
+    height: 105px;
+    color:#FFBFBF;
+    font-family: pacifico;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.labels {
+    color: #FFF;
+    text-align: center;
+    font-family: Signika;
+    font-size: 15px;
+}
+
+.ktk1 {
+    width: 323px;
+    height: 401px;
+    border-radius: 25px;
+    background: #D4F2B3;
+}
+
+.penjelasan {
+    color: #648f48;
+    font-family: Signika;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.165px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 290px;
+    margin-top: 220px;
+    margin-left: 16px;
+}
+
+.ktk2 {
+    width: 322px;
+    height: 401px;
+    border-radius: 25px;
+    background: #A8DF8E;
+}
+
+.ktk3 {
+    width: 323px;
+    height: 262px;
+    border-radius: 25px;
+    background: #9EB384;
+}
+
+.contact {
+    text-align: center;
+    font-family: pacifico;
+    color: #fcdbdb;
+    font-size: 40px;
+    margin-top: -2px;
+    
+}
+
+.contact2 {
+    text-align: center;
+    font-family: pacifico;
+    color: #FFF;
+    font-size: 40px;
+    margin-top: -108px;
+    margin-left: 6px;
+}
+
+.cinfo {
+    color: #fff6fb;
+    text-align: center;
+    font-family: Signika;
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: -40px;
+}
+
+.ktk4 {
+    width: 323px;
+    height: 132px;
+    border-radius: 25px;
+    background: #9EB384;
+    
+}
+
+
+.foto1 {
+    width: 293px;
+    height: 154px;
+    border-radius: 25px;
+}
+
+.foto2 {
+    width: 287px;
+    height: 85px;
+    border-radius: 25px;
+}
+
+.foto3 {
+    width: 287px;
+    height: 85px;
+    border-radius: 25px;
+}
+
+.button {
+    width: 139px;
+    height: 33px;
+    border-radius: 25px;
+    border: 3px solid #FFF0F0;
+    background: #FFF;
+}
+
+.buttontxt {
+    color: #E8A1A1;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    top: -12px;
+    left: 47px;
+    position: absolute;
+}
