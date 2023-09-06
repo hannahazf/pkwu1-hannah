@@ -159,38 +159,6 @@
     margin-top: -40px;
 }
 
-.heart1 {
-    color:#FFBFBF; 
-    font-size: 90px; 
-    margin-top:-29px;
-    margin-left: -225px; 
-    text-align:center;
-    }
-
-.heart2 {
-    color:#fcdbdb; 
-    font-size: 90px; 
-    margin-top:-180px;
-    margin-left: -69px; 
-    text-align:center;
-    }
-
-    .heart3 {
-        color:#FFBFBF; 
-        font-size: 90px; 
-        margin-top:-180px;
-        margin-left: 84px; 
-        text-align:center;
-        }
-
-        .heart4 {
-            color:#fcdbdb; 
-            font-size: 90px; 
-            margin-top:-180px;
-            margin-left: 230px; 
-            text-align:center;
-            }
-
 .ktk1 {
     width: 323px;
     height: 401px;
@@ -271,10 +239,11 @@
     position: absolute
 }
 
-.videoi {
-    width: 305px;
-    height: 175px;
-    border-radius: 25px;
-    margin-top: 8px;
-    margin-left: 9px;
+.discountpic {
+    width: 226px; 
+    height: 226px; 
+    border-radius: 10px; 
+    top: 17px; 
+    left: 15px; 
+    position: absolute;
 }
